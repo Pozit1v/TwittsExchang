@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TwittsExchange
+namespace TwittsExchange.Data
 {
     using System;
     using System.Data.Entity;
